@@ -1,3 +1,4 @@
 This is new file
 learning
 How are you doing today
+I am using GIT
